@@ -1,1 +1,1 @@
-CNN trained on differnet celebrity faces
+CNN trained on differnet 24 celebrity faces
